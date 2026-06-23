@@ -43,3 +43,7 @@ https://privacybadger.org/ <br><br>
 # <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/1273d5ee-7e7c-4957-bae8-5b916061a09a" /> uBlock Origin ∙ <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9fefba8c-80d1-4192-81e6-712698b8e3af" />
 
 https://ublockorigin.com/ <br><br>
+
+# <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/1f29a24f-8d1a-4382-9269-8cd735c99eb0" /> SponsorBlock ∙ <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9fefba8c-80d1-4192-81e6-712698b8e3af" />
+
+https://sponsor.ajay.app/ <br><br>
